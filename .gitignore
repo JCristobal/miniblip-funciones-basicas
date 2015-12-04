@@ -1,5 +1,8 @@
 *~
 
+.hg/
+.hgignore
+
 # Compiled Object files
 *.slo
 *.lo

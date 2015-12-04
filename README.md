@@ -3,6 +3,13 @@ Repositorio con un proyecto básico de la nueva MiniBlip de BQ
 
 No se buscará ninguna funcionalidad significativa, sólo usar todas sus funcionalidades para probarla y poder usarlas en otros proyectos mayores.
 
+
+* **imperial_march_vol** Manejo de volumen con el potenciómetro
+
+
+
+Hay disponibles más ejemplos, proyectos e información en el [repositorio del Hackatron *hack-miniblip*](https://github.com/hack-miniblip/hack-miniblip.github.io)
+
 ***
 
 La [miniblip es](https://github.com/bqlabs/miniBLIP) una placa creada por [BQ](http://github.com/bqlabs) para *wearables* y lo que surja. Tiene dos botones, 5 botones capacitivos y un array de leds. Está basada en un ARM Cortex-M0 a 48MHz, el LPC11U24 que incluye 32KB FLASH y 8KB RAM y funciona a 48MHz ([más detalles](https://developer.mbed.org/platforms/mbed-LPC11U24/#features))
@@ -56,7 +63,8 @@ Al conectar de nuevo el sistema empezará a funcionar el nuevo programa.
 
 ## Binarios
 
-Puedes ver los binarios en [este repositorio](https://github.com/hack-miniblip/apps/). Si quieres subir el tuyo propio, haz un *fork*, [incorpora tu binario siguiendo las instrucciones](https://github.com/hack-miniblip/apps/blob/master/README.md) y haz un pull request.
+Puedes ver los archivos binarios de más ejemplos y proyectos en [este repositorio](https://github.com/hack-miniblip/apps/). 
+*Para subir uno propio, haz un fork, [incorpora tu binario siguiendo las instrucciones](https://github.com/hack-miniblip/apps/blob/master/README.md) y haz un pull request.*
 
 
 
